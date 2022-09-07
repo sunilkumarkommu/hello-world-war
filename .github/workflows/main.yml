@@ -11,5 +11,5 @@ jobs:
       with:
         url: "http://172.20.0.1:8080"
         user: "sunil"
-        token: ${{ 1188f6fbe7a7faef2d4c913aa918bfc8a3 }}
+        token: "1188f6fbe7a7faef2d4c913aa918bfc8a3"
         job: "jenkins-github-webhook"
